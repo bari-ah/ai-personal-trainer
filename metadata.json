@@ -1,0 +1,6 @@
+{
+  "name": "The Aqva Club at Sheraton Addis",
+  "description": "Premium Cinematic Brutalist boutique health club landing page and metrics dashboard for the elite Aqva Club at Sheraton Addis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
