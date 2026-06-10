@@ -70,3 +70,9 @@ This repository is pre-configured with a universal `vercel.json` structure and a
 2. In your Vercel project settings, configure your Environment Variables:
    - Add `GEMINI_API_KEY` with your actual Google Gemini API key.
 3. Deploy the project. Vercel will automatically read `vercel.json` and host both your React SPA and backend Express routes seamlessly.
+
+## Local Development
+
+```bash
+npm install
+npm run dev
